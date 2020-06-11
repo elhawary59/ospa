@@ -212,18 +212,6 @@ OE: 2.0
 HomePage: http://www.isettinge2.com
 Priority: optional
 
-Package: enigma2-plugin-extensions-jedimakerxtream
-Version: 5.32.20200513
-Depends: python-lzma
-Section: misc
-Architecture: all
-Maintainer: kiddac
-MD5Sum: 3788cbd10de2db78ababb9b33f70c2fe
-Size: 1804796
-Filename: enigma2-plugin-extensions-jedimakerxtream_5.32.20200513_all.ipk
-Description: Jedi Maker Xtream
-Priority: optional
-
 Package: enigma2-plugin-extensions-livefootball
 Version: 7.1
 Section: base
@@ -848,14 +836,14 @@ HomePage: http://www.kashmir-plugins.de
 Priority: optional
 
 Package: enigma2-plugin-extensions-xstreamity
-Version: 1.31.20200509
+Version: 1.36.20200515
 Depends: python-image, python-imaging, python-argparse, python-requests, python-multiprocessing
 Section: misc
 Architecture: all
 Maintainer: kiddac
-MD5Sum: 8a7f8ad18a24c7b48b3c5a56529339bb
-Size: 1089640
-Filename: enigma2-plugin-extensions-xstreamity_1.31.20200509_all.ipk
+MD5Sum: dcdcc5057ff0c17034d7fdac9511741c
+Size: 1097782
+Filename: enigma2-plugin-extensions-xstreamity_1.36.20200515_all.ipk
 Description: IPTV Xtream Codes playlists player by KiddaC
 Priority: optional
 
